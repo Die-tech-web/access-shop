@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Montre Classique Dorée",
+    "category": "Montres",
+    "price": 250,
+    "description": "Une montre élégante avec un bracelet en cuir véritable et un boîtier en acier inoxydable plaqué or. Parfaite pour toutes les occasions.",
+    "image": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/watch-product-3rv9dyt-1762528887840.webp",
+    "gallery": [
+      "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/watch-product-3rv9dyt-1762528887840.webp",
+      "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/watch-product-3rv9dyt-1762528887840.webp",
+      "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/watch-product-3rv9dyt-1762528887840.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sac à Main en Cuir Noir",
+    "category": "Sacs",
+    "price": 350,
+    "description": "Un sac à main spacieux et stylé en cuir de première qualité. Idéal pour le travail ou les sorties.",
+    "image": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/bag-product-a4cl1mc-1762528895803.webp",
+    "gallery": []
+  },
+  {
+    "id": 3,
+    "name": "Collier Pendentif Or",
+    "category": "Bijoux",
+    "price": 120,
+    "description": "Un collier délicat en or 18 carats avec un pendentif minimaliste. Le cadeau parfait.",
+    "image": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/jewelry-product-rc70s8u-1762528917013.webp",
+    "gallery": []
+  },
+  {
+    "id": 4,
+    "name": "Lunettes de Soleil Aviateur",
+    "category": "Lunettes",
+    "price": 180,
+    "description": "Des lunettes de soleil de style aviateur avec des verres polarisés et une monture en métal doré.",
+    "image": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/sunglasses-product-9cqr1mz-1762528903740.webp",
+    "gallery": []
+  },
+  {
+    "id": 5,
+    "name": "Écouteurs Sans Fil Pro",
+    "category": "Écouteurs",
+    "price": 200,
+    "description": "Des écouteurs sans fil avec une qualité sonore exceptionnelle et une réduction de bruit active.",
+    "image": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/headphone-product-0w6b5df-1762528910161.webp",
+    "gallery": []
+  },
+  {
+    "id": 6,
+    "name": "Coque de Téléphone Beige",
+    "category": "Coques",
+    "price": 40,
+    "description": "Une coque de téléphone minimaliste et protectrice avec une finition douce au toucher.",
+    "image": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/1cb7cc03-9a90-4eda-b57b-482f72bc463f/phonecase-product-jycfot3-1762528923899.webp",
+    "gallery": []
+  }
+]
